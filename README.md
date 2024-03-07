@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Using GitHub for academic projects.
+
 <!--
 **imsolesong/imsolesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
